@@ -17,3 +17,4 @@ int findUnique(int *arr, int size)
             return key;
         }
 }
+}
