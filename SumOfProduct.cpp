@@ -1,4 +1,6 @@
 #include <bits/stdc++.h> 
+using namespace std;
+
 long long int sumOrProduct(long long int n, long long int q)
 {
     long long int ans=0;
