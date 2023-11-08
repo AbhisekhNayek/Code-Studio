@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+using namespace std;
 
 int f(int n,vector<int> & h,vector<int>&dp)
 {
