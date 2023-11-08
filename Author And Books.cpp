@@ -1,5 +1,5 @@
 #include <bits/stdc++.h> 
-
+using namespace std;
 
 vector<string> arrangeAuthors(vector<vector<string> > &s) {
     vector<string> formattedData;
